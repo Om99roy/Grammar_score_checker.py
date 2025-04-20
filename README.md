@@ -4,6 +4,9 @@ A machine learning model that analyzes spoken audio to predict grammar quality u
 Here is the screenshot:- 
 ![image](https://github.com/user-attachments/assets/b8a899dc-4f19-4cfe-bbeb-31a40fff29bc)
 
+![image](https://github.com/user-attachments/assets/957bea4a-486b-4e33-a196-94417b2cf150)
+
+
 ## Features ✨
 
 - **Audio Analysis**: Extracts 20+ acoustic features including:
@@ -15,6 +18,7 @@ Here is the screenshot:-
 - **Visual Analytics**:
   - Interactive waveform display
   - MFCC heatmap visualization
+  - As well as Download Full csv report
 - **File Support**: Processes WAV and MP3 audio formats
 
 ## Tech Stack 🛠️
@@ -32,8 +36,15 @@ Here is the screenshot:-
 
 **Dataset 📚**
 - Using Mozilla's Common Voice dataset from Kaggle:
-- Common Voice Dataset contains 50,000+ validated speech samples
 - Annotated with speaker metadata and text transcripts
+- Used a curated subset of Mozilla's Common Voice dataset:
+- **Samples**: 25,403 voice recordings (`cv-invalid.csv`)
+- **Features**:  
+  - Audio files (MP3 format)  
+  - Text transcripts  
+  - Speaker metadata (age, gender, accent)
+  - **Souce**: [Common Voice on Kaggle](https://www.kaggle.com/datasets/mozillaorg/common-voice)
+  - The full Common Voice dataset contains 2.5M+ recordings – see [official site](https://commonvoice.mozilla.org/).
 
 ## Acknowledgments 🙏
 - Mozilla Common Voice team for speech dataset
