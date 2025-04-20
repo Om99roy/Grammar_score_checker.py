@@ -7,7 +7,7 @@ Here is the screenshot:-
 ![image](https://github.com/user-attachments/assets/957bea4a-486b-4e33-a196-94417b2cf150)
 
 
-**Demo video:** - [![Grammar Scoring Engine Demo](https://youtu.be/lu1UdPp1ujI?si=unGBN42zbcJBbIxm)
+**Demo video:** - [Grammar Scoring Engine Demo ▶️ ](https://youtu.be/lu1UdPp1ujI?si=unGBN42zbcJBbIxm)
 
 
 ## Features ✨
