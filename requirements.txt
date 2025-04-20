@@ -1,0 +1,8 @@
+openai-whisper
+librosa
+numpy
+en-core-web-sm==3.8.0
+streamlit
+pandas
+matplotlib
+sklearn
